@@ -1,0 +1,2 @@
+# Finance.Trade
+Educational purposes
